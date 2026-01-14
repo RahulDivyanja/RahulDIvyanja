@@ -3,7 +3,7 @@ Hi! I'm Yasiru Rahul, a Full Stack Developer with a strong focus on building sca
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-rahul-277379275/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@R_Divyanja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahuldivyanja@gmail.com) [![Portfolio]([https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white](https://raw.githubusercontent.com/RahulDivyanja/Yasiru_Rahul_Dev/refs/heads/main/app/favicon.ico))](https://yasirurahul.me) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-rahul-277379275/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@R_Divyanja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahuldivyanja@gmail.com) [![Portfolio](https://raw.githubusercontent.com/RahulDivyanja/Yasiru_Rahul_Dev/main/app/favicon.ico)](https://yasirurahul.me)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
