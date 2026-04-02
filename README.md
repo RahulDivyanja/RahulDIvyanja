@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Yasiru Rahul, a Full Stack Developer with a strong focus on building scalable web and mobile applications. Currently pursuing a BICT (Hons) degree, I specialize in both front-end and back-end development using modern technologies.<br><br>⚙️ Tech Stack: React, Node.js, Express, MongoDB, SQL, Spring Boot <br><br>📱 Mobile: React Native apps with real-time features and notifications<br><br>🌐 Backend: REST APIs, WebSockets, and secure integrations<br><br><br>🧠 Always Learning: Exploring system-level programming and cybersecurity<br><br>I’m passionate about solving real-world problems with code and love working on projects that blend software with smart hardware.
+Hi! I'm Yasiru Rahul, a Full Stack Developer with a strong focus on building scalable web and mobile applications. Currently pursuing a BICT (Hons) degree, I specialize in both front-end and back-end development using modern technologies.<br><br>⚙️ Tech Stack: React, Node.js, Express, MongoDB, SQL, Spring Boot <br><br>📱 Mobile: React Native apps with real-time features and notifications<br><br>🌐 Backend: REST APIs, WebSockets, and secure integrations<br><br>🧠 Always Learning: Exploring system-level programming and cybersecurity<br><br>I’m passionate about solving real-world problems with code and love working on projects that blend software with smart hardware.
 
 
 ## 🌐 Socials:
