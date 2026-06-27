@@ -17,6 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=RahulDivyanja&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![GitHub Stats](https://streak-stats.demolab.com?user=RahulDivyanja&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulDivyanja&theme=dark&show_icons=true&hide_border=true&layout=compact)
+</br>![](https://view-counter.tobyhagan.com/?user=RahulDivyanja&base=000&accent=fffff&text=fff)
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=RahulDivyanja&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
