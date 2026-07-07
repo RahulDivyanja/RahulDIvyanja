@@ -1,5 +1,5 @@
 # Yasiru Rahul: Full Stack Developer
->[!NOTE]
+
 >Hi! I'm Yasiru Rahul, a Full Stack Developer with a strong focus on building scalable web and mobile applications. Currently pursuing a BICT (Hons) degree, I specialize in both front-end and back-end development using modern technologies
 >- **Tech Stack: React, Nest, Next, Node.js, Express, MongoDB, SQL, Spring Boot** 
 >- **Mobile: React Native apps with real-time features and notifications**
