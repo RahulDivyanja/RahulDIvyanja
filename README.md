@@ -5,7 +5,7 @@ Hi! I'm Yasiru Rahul, a Full Stack Developer who builds scalable web apps, mobil
 - **Mobile: React Native apps with real-time features and notifications**
 - **Backend: REST APIs, WebSockets, and secure integrations**
 - **Cloud: Currently learning and building with AWS — EC2, S3, Lambda, API Gateway, RDS, CloudWatch, IAM, and CI/CD pipeline**
-- **Always Learning: Exploring system-level programming and I’m passionate about solving real-world problems with code and love working on projects >that blend software with smart hardware.**
+- **Always Learning: Exploring system-level programming, and I’m passionate about solving real-world problems with code and love working on projects >that blend software with smart hardware.**
 
 
 ## 🌐 Socials:
